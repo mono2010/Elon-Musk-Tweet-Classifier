@@ -19,12 +19,12 @@ https://www.sec.gov/news/press-release/2018-226
 
 https://www.washingtonpost.com/technology/2019/04/26/elon-musk-sec-resolve-dispute-over-teslas-ceos-tweets/
 
-File Directory:
+#### File Directory:
 - elon_tweets.ipynb (file that scrapes and analyzes Elon Musk's tweet information)
 - elon.csv (exported tweet data stored in a static .csv file)
 - price.csv (exported Tesla stock data stored in static .csv file)
 
-Packages Used:
+#### Packages Used:
 ```import requests # necessary for accessing API
 import numpy as np
 import pandas as pd
