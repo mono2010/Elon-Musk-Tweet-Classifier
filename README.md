@@ -24,7 +24,7 @@ https://www.washingtonpost.com/technology/2019/04/26/elon-musk-sec-resolve-dispu
 - elon.csv (exported tweet data stored in a static .csv file)
 - price.csv (exported Tesla stock data stored in static .csv file)
 
-#### Packages Used:
+#### Python Packages Used:
 ```import requests # necessary for accessing API
 import numpy as np
 import pandas as pd
