@@ -49,3 +49,8 @@ Stock Price Volatility Score Over Time
 
 
 <img src="./images/vol.png" align = 'left' alt="vol" width="450"/>
+
+
+Model Evaluation
+
+<img src="./images/model_eval.png" align = 'left' alt="vol" width="450"/>
