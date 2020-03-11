@@ -33,10 +33,12 @@ import matplotlib.pyplot as plt
 from datetime import datetime, date, timedelta
 import GetOldTweets3 as got # useful for accessing tweet history
 
-```# import modling packages
+# import modling packages
 from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import roc_curve, precision_recall_curve, auc, make_scorer, recall_score,\
-                            accuracy_score, precision_score, confusion_matrix, roc_auc_score, classification_report
+from sklearn.metrics import roc_curve, precision_recall_curve, auc,\
+      make_scorer, recall_score,\
+      accuracy_score, precision_score, confusion_matrix, \
+      roc_auc_score, classification_report
