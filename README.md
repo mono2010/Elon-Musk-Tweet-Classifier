@@ -44,5 +44,6 @@ from sklearn.metrics import roc_curve, precision_recall_curve, auc,\
       roc_auc_score, classification_report
 ```
 
-####
-<img src="./images/vol.jpg" alt="musk" width="200"/>
+#### Preliminary Analysis
+Stock Price Volatility Score Over Time
+<img src="./images/vol.png" alt="musk" width="200"/>
