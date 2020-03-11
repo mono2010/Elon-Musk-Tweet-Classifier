@@ -23,3 +23,11 @@ File Directory:
 - elon_tweets.ipynb (file that scrapes and analyzes Elon Musk's tweet information)
 - elon.csv (exported tweet data stored in a static .csv file)
 - price.csv (exported Tesla stock data stored in static .csv file)
+
+Packages Used:
+```import requests
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+from datetime import datetime, date, timedelta
+import GetOldTweets3 as got```
