@@ -25,9 +25,18 @@ File Directory:
 - price.csv (exported Tesla stock data stored in static .csv file)
 
 Packages Used:
-```import requests
+```import requests # necessary for accessing API
+import numpy as np
 import pandas as pd
 import seaborn as sns
 import matplotlib.pyplot as plt
 from datetime import datetime, date, timedelta
-import GetOldTweets3 as got```
+import GetOldTweets3 as got # useful for accessing tweet history
+
+```# import modling packages
+from sklearn.model_selection import train_test_split, GridSearchCV, RandomizedSearchCV
+from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.pipeline import Pipeline
+from sklearn.metrics import roc_curve, precision_recall_curve, auc, make_scorer, recall_score,\
+                            accuracy_score, precision_score, confusion_matrix, roc_auc_score, classification_report
