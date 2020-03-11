@@ -1,5 +1,7 @@
 # Elon-Musk-Tweet-Classifier
 
+<img src="./images/musk.jpeg" align = 'left' alt="tingo" width="300"/>
+
 Executive Summary:
 
 <br><b>1. Problem Statement:</b>
