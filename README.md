@@ -1,6 +1,6 @@
 # Elon-Musk-Tweet-Classifier
 
-<img src="./images/musk.jpeg" align = 'left' alt="tingo" width="300"/>
+<img src="./images/musk.jpeg" alt="musk" width="300"/>
 <br>
 Executive Summary:
 
