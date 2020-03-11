@@ -47,13 +47,10 @@ from sklearn.metrics import roc_curve, precision_recall_curve, auc,\
 #### Preliminary Analysis
 Stock Price Volatility Score Over Time
 
-
 <img src="./images/vol.png" align = 'left' alt="vol" width="450"/>
 
-
-
+<br>
 Model Evaluation
-
-
+<br>
 
 <img src="./images/model_eval.png" align = 'left' alt="vol" width="450"/>
