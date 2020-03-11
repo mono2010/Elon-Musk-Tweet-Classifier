@@ -1,7 +1,7 @@
+<img src="./images/musk.jpeg" alt="musk" width="200"/>
+
 # Elon-Musk-Tweet-Classifier
 
-<img src="./images/musk.jpeg" alt="musk" width="300"/>
-<br>
 Executive Summary:
 
 <br><b>1. Problem Statement:</b>
