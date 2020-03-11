@@ -42,3 +42,7 @@ from sklearn.metrics import roc_curve, precision_recall_curve, auc,\
       make_scorer, recall_score,\
       accuracy_score, precision_score, confusion_matrix, \
       roc_auc_score, classification_report
+```
+
+####
+<img src="./images/vol.jpg" alt="musk" width="200"/>
