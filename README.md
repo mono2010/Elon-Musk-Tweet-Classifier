@@ -24,9 +24,12 @@ https://www.washingtonpost.com/technology/2019/04/26/elon-musk-sec-resolve-dispu
 
 #### File Directory:
 - elon_tweets.ipynb (file that scrapes and analyzes Elon Musk's tweet information)
-- elon.csv (exported tweet data stored in a static .csv file)
+- elon.csv (exported tweet data stored in a static .csv file
 - price.csv (exported Tesla stock data stored in static .csv file)
 - tweet_screener.csv (file that get's loaded into the app)
+
+## If You'd Like to Access the Flask App That Showcases The Results of This Model, Click the Repo Below.
+https://github.com/mono2010/elon-app
 
 #### Python Packages Used:
 ```import requests # necessary for accessing API
