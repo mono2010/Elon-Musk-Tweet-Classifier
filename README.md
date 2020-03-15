@@ -3,7 +3,7 @@
 # Elon-Musk-Tweet-Classifier
 Slide Deck:
 <br>
-https://docs.google.com/presentation/d/1gz360drOLdCrFkm2v27fgX88dSv8tpL5zlFuLv7dACg/edit#slide=id.p
+https://docs.google.com/presentation/d/1gz360drOLdCrFkm2v27fgX88dSv8tpL5zlFuLv7dACg/
 
 ## Executive Summary:
 
