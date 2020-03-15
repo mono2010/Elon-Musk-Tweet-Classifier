@@ -48,12 +48,7 @@ from sklearn.metrics import roc_curve, precision_recall_curve, auc,\
 Stock Price Volatility Score Over Time
 <br>
 <img src="./images/vol.png" align = 'left' alt="vol" width="450"/>
-
-
-
-
 <br>
 Here's a classification report for my model.
-<br>
 
 <img src="./images/model_eval.png" align = 'left' alt="vol" width="450"/>
