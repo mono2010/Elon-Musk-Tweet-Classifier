@@ -52,3 +52,4 @@ Stock Price Volatility Score Over Time and Classification Model for My Model
 <br>
 <img src="./images/vol.png" align = 'left' alt="vol" width="450"/>
 <img src="./images/model_eval.png" align = 'center' alt="vol" width="450"/>
+<img src="./images/words.png" align = 'center' alt="word" width="450"/>
