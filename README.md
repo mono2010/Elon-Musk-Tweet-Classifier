@@ -46,8 +46,8 @@ from sklearn.metrics import roc_curve, precision_recall_curve, auc,\
 
 #### Preliminary Analysis
 Stock Price Volatility Score Over Time
-Model Evaluation
-
-Heres's a graph that showcases how volotile Tesla's stock has been over time.
 <img src="./images/vol.png" align = 'left' alt="vol" width="450"/>
+
+Here's a classification report for my model.
+
 <img src="./images/model_eval.png" align = 'left' alt="vol" width="450"/>
