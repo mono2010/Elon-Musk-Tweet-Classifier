@@ -1,6 +1,8 @@
 <img src="./images/musk.jpeg" alt="musk" width="200"/>
 
 # Elon-Musk-Tweet-Classifier
+Slide Deck:
+https://docs.google.com/presentation/d/1gz360drOLdCrFkm2v27fgX88dSv8tpL5zlFuLv7dACg/edit#slide=id.p
 
 ## Executive Summary:
 
