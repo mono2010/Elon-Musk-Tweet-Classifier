@@ -4,7 +4,7 @@
 
 <a href="https://docs.google.com/presentation/d/1gz360drOLdCrFkm2v27fgX88dSv8tpL5zlFuLv7dACg/" target="_blank">Slide Deck</a>
 <br>
-<a href="https://github.com/mono2010/elon-app" target="_blank">Link To Heroku App Repo:</a>
+<a href="https://github.com/mono2010/elon-app" target="_blank">Heroku App Repo:</a>
 
 
 ## Executive Summary:
